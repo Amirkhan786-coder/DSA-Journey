@@ -6,8 +6,6 @@
 
 Build strong problem-solving skills by learning Data Structures and Algorithms from fundamentals to advanced topics.
 
-The journey will run **in parallel with the AIML Journey**.
-
 ---
 
 #  Roadmap

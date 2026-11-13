@@ -1,54 +1,58 @@
-# DSA Journey Progress
+# DSA JOURNEY — PROGRESS TRACKER
 
-This file tracks DSA learning and problem-solving progress.
+This file tracks DSA learning, coding practice, and problem-solving progress.
 
 ---
 
-# Overall Progress
+## Overall Progress
 
-**Current Phase:** Arrays  
+**Current Phase:** Strings  
+**Completed Phases:** 1 / 19  
 **Problems Solved:** 0  
 **LeetCode:** 0  
-**GeeksforGeeks:** 0
+**GeeksforGeeks:** 0  
+
+**Current Learning Status:** Arrays completed. Strings started.
 
 ---
 
-# Topic Progress
+## Topic Progress
 
 | Topic | Status | Problems |
 |---|---|---:|
-| Arrays | 🔵 Starting | 0 |
-| Strings | ⬜ | 0 |
-| Hashing | ⬜ | 0 |
-| Two Pointers | ⬜ | 0 |
-| Sliding Window | ⬜ | 0 |
-| Binary Search | ⬜ | 0 |
-| Sorting | ⬜ | 0 |
-| Linked List | ⬜ | 0 |
-| Stack | ⬜ | 0 |
-| Queue | ⬜ | 0 |
-| Recursion | ⬜ | 0 |
-| Backtracking | ⬜ | 0 |
-| Trees | ⬜ | 0 |
-| BST | ⬜ | 0 |
-| Heap | ⬜ | 0 |
-| Greedy | ⬜ | 0 |
-| Graphs | ⬜ | 0 |
-| Dynamic Programming | ⬜ | 0 |
-| Advanced DSA | ⬜ | 0 |
+| Arrays | 🟢 Completed | 20 |
+| Strings | 🔵 In Progress | 0 |
+| Hashing | ⬜ Not Started | 0 |
+| Two Pointers | ⬜ Not Started | 0 |
+| Sliding Window | ⬜ Not Started | 0 |
+| Binary Search | ⬜ Not Started | 0 |
+| Sorting | ⬜ Not Started | 0 |
+| Linked List | ⬜ Not Started | 0 |
+| Stack | ⬜ Not Started | 0 |
+| Queue | ⬜ Not Started | 0 |
+| Recursion | ⬜ Not Started | 0 |
+| Backtracking | ⬜ Not Started | 0 |
+| Trees | ⬜ Not Started | 0 |
+| BST | ⬜ Not Started | 0 |
+| Heap | ⬜ Not Started | 0 |
+| Greedy | ⬜ Not Started | 0 |
+| Graphs | ⬜ Not Started | 0 |
+| Dynamic Programming | ⬜ Not Started | 0 |
+| Advanced DSA | ⬜ Not Started | 0 |
 
 ---
 
-#  Platform Progress
+## Platform Progress
 
 | Platform | Solved |
 |---|---:|
 | LeetCode | 0 |
 | GeeksforGeeks | 0 |
+| **Total** | **0** |
 
 ---
 
-#  Daily Problem Log
+## Daily Problem Log
 
 | Date | Problem | Platform | Difficulty | Topic | Status |
 |---|---|---|---|---|---|
@@ -56,7 +60,7 @@ This file tracks DSA learning and problem-solving progress.
 
 ---
 
-#  Milestones
+## Milestones
 
 - [ ] 10 Problems
 - [ ] 25 Problems
@@ -68,35 +72,74 @@ This file tracks DSA learning and problem-solving progress.
 
 ---
 
-#  Status Legend
+## Status Legend
 
--  Not Started
--  In Progress
--  Completed
--  Revising
-
----
-
-#  Current Target
-
-**Topic:** Arrays
-
-Focus on:
-
-1. Understanding arrays
-2. Traversal
-3. Searching
-4. Maximum / minimum
-5. Sum and frequency
-6. Basic array patterns
-7. Time and space complexity
-
-Then begin regular LeetCode and GeeksforGeeks practice.
+- ⬜ Not Started
+- 🔵 In Progress
+- 🟢 Completed
+- 🟡 Revising
 
 ---
 
-#  Rule
+# PHASE 02 — STRINGS
+
+<badge color="success">Arrays Completed</badge> <badge color="info">Current Phase: Strings</badge>
+
+## Learning Checklist
+
+- [ ] Understanding Strings
+- [ ] String Indexing and Slicing
+- [ ] String Traversal
+- [ ] String Immutability
+- [ ] String Methods
+- [ ] Character Frequency
+- [ ] Reverse a String
+- [ ] Palindrome Checking
+- [ ] Anagram Checking
+- [ ] Substrings and Subsequences
+- [ ] String Comparison
+- [ ] Character Encoding (ASCII / Unicode)
+- [ ] Hashing Basics for Strings
+- [ ] Two Pointers on Strings
+- [ ] Basic String Patterns
+- [ ] Time and Space Complexity
+
+## Coding Practice Checklist
+
+- [ ] Solve 20 String Coding Questions
+- [ ] Understand Brute Force Approaches
+- [ ] Optimize Solutions
+- [ ] Practice Edge Cases
+- [ ] Analyze Time and Space Complexity
+- [ ] Practice on LeetCode
+- [ ] Practice on GeeksforGeeks
+- [ ] Document Important Problems
+- [ ] Revise Solved Problems
+
+## String Phase Completion Criteria
+
+Strings will be marked **Completed** when:
+1. All important string concepts are understood.
+2. At least 20 coding questions are solved.
+3. Brute force and optimized approaches are understood.
+4. Edge cases are tested.
+5. Complexity analysis is completed.
+6. Important problems are documented and revised.
+
+---
+
+## Problem-Solving Rule
 
 For every important problem:
 
 **Understand → Brute Force → Optimize → Code → Test → Complexity → Document**
+
+Never memorize code without understanding the logic.
+
+---
+
+## Next Phase
+
+**PHASE 03 — HASHING**
+
+Start only after completing Strings theory and coding practice.
