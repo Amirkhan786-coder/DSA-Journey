@@ -7,37 +7,222 @@
     "totalPhases": 19,
     "completedPhases": 1,
     "currentPhase": 2,
-    "currentPhaseName": "Strings"
+    "currentPhaseName": "Strings",
+    "currentTopic": "Understanding Strings",
+    "totalQuestions": 500,
+    "solvedQuestions": 20,
+    "remainingQuestions": 480,
+    "progressPercentage": 5
   },
   "questions": {
-    "total": null,
-    "solved": null,
-    "remaining": null,
+    "total": 500,
+    "solved": 20,
+    "remaining": 480,
     "difficulty": {
-      "easy": null,
-      "medium": null,
-      "hard": null
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
     },
     "platforms": {
       "leetcode": 0,
       "geeksforgeeks": 0,
-      "other": null
+      "other": 0
     }
   },
   "topics": [
+    { "name": "Arrays", "status": "Completed", "questions": 20 },
+    { "name": "Strings", "status": "In Progress", "questions": 0 },
+    { "name": "Hashing", "status": "Not Started", "questions": 0 },
+    { "name": "Two Pointers", "status": "Not Started", "questions": 0 },
+    { "name": "Sliding Window", "status": "Not Started", "questions": 0 },
+    { "name": "Binary Search", "status": "Not Started", "questions": 0 },
+    { "name": "Sorting", "status": "Not Started", "questions": 0 },
+    { "name": "Linked List", "status": "Not Started", "questions": 0 },
+    { "name": "Stack", "status": "Not Started", "questions": 0 },
+    { "name": "Queue", "status": "Not Started", "questions": 0 },
+    { "name": "Recursion", "status": "Not Started", "questions": 0 },
+    { "name": "Backtracking", "status": "Not Started", "questions": 0 },
+    { "name": "Trees", "status": "Not Started", "questions": 0 },
+    { "name": "BST", "status": "Not Started", "questions": 0 },
+    { "name": "Heap", "status": "Not Started", "questions": 0 },
+    { "name": "Greedy", "status": "Not Started", "questions": 0 },
+    { "name": "Graphs", "status": "Not Started", "questions": 0 },
+    { "name": "Dynamic Programming", "status": "Not Started", "questions": 0 },
+    { "name": "Advanced DSA", "status": "Not Started", "questions": 0 }
+  ],
+  "phases": [
     {
+      "phase": 1,
       "name": "Arrays",
       "status": "Completed",
-      "questions": 20
+      "questions": 20,
+      "topics": [
+        { "name": "Array Fundamentals", "status": "Completed" },
+        { "name": "Array Creation and Traversal", "status": "Completed" },
+        { "name": "Insertion and Deletion", "status": "Completed" },
+        { "name": "Searching in Arrays", "status": "Completed" },
+        { "name": "Array Operations", "status": "Completed" },
+        { "name": "Time and Space Complexity", "status": "Completed" }
+      ]
     },
     {
+      "phase": 2,
       "name": "Strings",
       "status": "In Progress",
-      "questions": 0
+      "questions": 0,
+      "topicGroups": [
+        {
+          "name": "String Fundamentals",
+          "topics": [
+            { "name": "Understanding Strings", "status": "In Progress" },
+            { "name": "String Indexing and Slicing", "status": "Not Started" },
+            { "name": "String Traversal", "status": "Not Started" },
+            { "name": "String Immutability", "status": "Not Started" },
+            { "name": "String Methods", "status": "Not Started" },
+            { "name": "Character Frequency", "status": "Not Started" }
+          ]
+        },
+        {
+          "name": "String Problem Solving",
+          "topics": [
+            { "name": "Reverse a String", "status": "Not Started" },
+            { "name": "Palindrome Checking", "status": "Not Started" },
+            { "name": "Anagram Checking", "status": "Not Started" },
+            { "name": "Substrings and Subsequences", "status": "Not Started" },
+            { "name": "String Comparison", "status": "Not Started" },
+            { "name": "Character Encoding (ASCII / Unicode)", "status": "Not Started" }
+          ]
+        },
+        {
+          "name": "Advanced String Concepts",
+          "topics": [
+            { "name": "Hashing Basics for Strings", "status": "Not Started" },
+            { "name": "Two Pointers on Strings", "status": "Not Started" },
+            { "name": "Basic String Patterns", "status": "Not Started" },
+            { "name": "Time and Space Complexity", "status": "Not Started" }
+          ]
+        },
+        {
+          "name": "Coding Practice",
+          "topics": [
+            { "name": "Solve 20 String Coding Questions", "status": "Not Started" },
+            { "name": "Understand Brute Force Approaches", "status": "Not Started" },
+            { "name": "Optimize Solutions", "status": "Not Started" },
+            { "name": "Practice Edge Cases", "status": "Not Started" },
+            { "name": "Analyze Time and Space Complexity", "status": "Not Started" },
+            { "name": "Practice on LeetCode", "status": "Not Started" },
+            { "name": "Practice on GeeksforGeeks", "status": "Not Started" },
+            { "name": "Document Important Problems", "status": "Not Started" },
+            { "name": "Revise Solved Problems", "status": "Not Started" }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "name": "Hashing",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 4,
+      "name": "Two Pointers",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 5,
+      "name": "Sliding Window",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 6,
+      "name": "Binary Search",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 7,
+      "name": "Sorting",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 8,
+      "name": "Linked List",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 9,
+      "name": "Stack",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 10,
+      "name": "Queue",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 11,
+      "name": "Recursion",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 12,
+      "name": "Backtracking",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 13,
+      "name": "Trees",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 14,
+      "name": "BST",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 15,
+      "name": "Heap",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 16,
+      "name": "Greedy",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 17,
+      "name": "Graphs",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 18,
+      "name": "Dynamic Programming",
+      "status": "Not Started",
+      "topics": []
+    },
+    {
+      "phase": 19,
+      "name": "Advanced DSA",
+      "status": "Not Started",
+      "topics": []
     }
   ],
   "milestones": {
-    "10": false,
+    "10": true,
     "25": false,
     "50": false,
     "100": false,
@@ -45,5 +230,14 @@
     "300": false,
     "500": false
   },
-  "lastUpdated": null
+  "problemSolvingRule": [
+    "Understand",
+    "Brute Force",
+    "Optimize",
+    "Code",
+    "Test",
+    "Complexity",
+    "Document"
+  ],
+  "lastUpdated": "2026-11-15"
 }
