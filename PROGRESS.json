@@ -1,0 +1,49 @@
+
+{
+  "repository": "DSA-Journey",
+  "category": "Data Structures and Algorithms",
+  "status": "In Progress",
+  "overall": {
+    "totalPhases": 19,
+    "completedPhases": 1,
+    "currentPhase": 2,
+    "currentPhaseName": "Strings"
+  },
+  "questions": {
+    "total": null,
+    "solved": null,
+    "remaining": null,
+    "difficulty": {
+      "easy": null,
+      "medium": null,
+      "hard": null
+    },
+    "platforms": {
+      "leetcode": 0,
+      "geeksforgeeks": 0,
+      "other": null
+    }
+  },
+  "topics": [
+    {
+      "name": "Arrays",
+      "status": "Completed",
+      "questions": 20
+    },
+    {
+      "name": "Strings",
+      "status": "In Progress",
+      "questions": 0
+    }
+  ],
+  "milestones": {
+    "10": false,
+    "25": false,
+    "50": false,
+    "100": false,
+    "200": false,
+    "300": false,
+    "500": false
+  },
+  "lastUpdated": null
+}
