@@ -5,19 +5,19 @@
   "status": "In Progress",
   "overall": {
     "totalPhases": 19,
-    "completedPhases": 1,
-    "currentPhase": 2,
-    "currentPhaseName": "Strings",
-    "currentTopic": "Understanding Strings",
+    "completedPhases": 2,
+    "currentPhase": 3,
+    "currentPhaseName": "Hashing",
+    "currentTopic": "Understanding Hashing",
     "totalQuestions": 500,
-    "solvedQuestions": 20,
-    "remainingQuestions": 480,
-    "progressPercentage": 5
+    "solvedQuestions": 50,
+    "remainingQuestions": 450,
+    "progressPercentage": 10
   },
   "questions": {
     "total": 500,
-    "solved": 20,
-    "remaining": 480,
+    "solved": 50,
+    "remaining": 450,
     "difficulty": {
       "easy": 0,
       "medium": 0,
@@ -31,8 +31,8 @@
   },
   "topics": [
     { "name": "Arrays", "status": "Completed", "questions": 20 },
-    { "name": "Strings", "status": "In Progress", "questions": 0 },
-    { "name": "Hashing", "status": "Not Started", "questions": 0 },
+    { "name": "Strings", "status": "Completed", "questions": 30 },
+    { "name": "Hashing", "status": "In Progress", "questions": 0 },
     { "name": "Two Pointers", "status": "Not Started", "questions": 0 },
     { "name": "Sliding Window", "status": "Not Started", "questions": 0 },
     { "name": "Binary Search", "status": "Not Started", "questions": 0 },
@@ -68,44 +68,107 @@
     {
       "phase": 2,
       "name": "Strings",
-      "status": "In Progress",
-      "questions": 0,
+      "status": "Completed",
+      "questions": 30,
       "topicGroups": [
         {
           "name": "String Fundamentals",
           "topics": [
-            { "name": "Understanding Strings", "status": "In Progress" },
-            { "name": "String Indexing and Slicing", "status": "Not Started" },
-            { "name": "String Traversal", "status": "Not Started" },
-            { "name": "String Immutability", "status": "Not Started" },
-            { "name": "String Methods", "status": "Not Started" },
-            { "name": "Character Frequency", "status": "Not Started" }
+            { "name": "Understanding Strings", "status": "Completed" },
+            { "name": "String Indexing and Slicing", "status": "Completed" },
+            { "name": "String Traversal", "status": "Completed" },
+            { "name": "String Immutability", "status": "Completed" },
+            { "name": "String Methods", "status": "Completed" },
+            { "name": "Character Frequency", "status": "Completed" }
           ]
         },
         {
           "name": "String Problem Solving",
           "topics": [
-            { "name": "Reverse a String", "status": "Not Started" },
-            { "name": "Palindrome Checking", "status": "Not Started" },
-            { "name": "Anagram Checking", "status": "Not Started" },
-            { "name": "Substrings and Subsequences", "status": "Not Started" },
-            { "name": "String Comparison", "status": "Not Started" },
-            { "name": "Character Encoding (ASCII / Unicode)", "status": "Not Started" }
+            { "name": "Reverse a String", "status": "Completed" },
+            { "name": "Palindrome Checking", "status": "Completed" },
+            { "name": "Anagram Checking", "status": "Completed" },
+            { "name": "Substrings and Subsequences", "status": "Completed" },
+            { "name": "String Comparison", "status": "Completed" },
+            { "name": "Character Encoding (ASCII / Unicode)", "status": "Completed" }
           ]
         },
         {
           "name": "Advanced String Concepts",
           "topics": [
-            { "name": "Hashing Basics for Strings", "status": "Not Started" },
-            { "name": "Two Pointers on Strings", "status": "Not Started" },
-            { "name": "Basic String Patterns", "status": "Not Started" },
-            { "name": "Time and Space Complexity", "status": "Not Started" }
+            { "name": "Hashing Basics for Strings", "status": "Completed" },
+            { "name": "Two Pointers on Strings", "status": "Completed" },
+            { "name": "Basic String Patterns", "status": "Completed" },
+            { "name": "Time and Space Complexity", "status": "Completed" }
           ]
         },
         {
           "name": "Coding Practice",
           "topics": [
-            { "name": "Solve 20 String Coding Questions", "status": "Not Started" },
+            { "name": "Solve 20 String Coding Questions", "status": "Completed" },
+            { "name": "Understand Brute Force Approaches", "status": "Completed" },
+            { "name": "Optimize Solutions", "status": "Completed" },
+            { "name": "Practice Edge Cases", "status": "Completed" },
+            { "name": "Analyze Time and Space Complexity", "status": "Completed" },
+            { "name": "Practice on LeetCode", "status": "Completed" },
+            { "name": "Practice on GeeksforGeeks", "status": "Completed" },
+            { "name": "Document Important Problems", "status": "Completed" },
+            { "name": "Revise Solved Problems", "status": "Completed" }
+          ]
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "name": "Hashing",
+      "status": "In Progress",
+      "questions": 0,
+      "topicGroups": [
+        {
+          "name": "Hashing Fundamentals",
+          "topics": [
+            { "name": "Understanding Hashing", "status": "In Progress" },
+            { "name": "Hash Functions", "status": "Not Started" },
+            { "name": "Hash Tables", "status": "Not Started" },
+            { "name": "Python Dictionaries", "status": "Not Started" },
+            { "name": "Python Sets", "status": "Not Started" },
+            { "name": "Key-Value Pairs", "status": "Not Started" }
+          ]
+        },
+        {
+          "name": "Hashing Techniques",
+          "topics": [
+            { "name": "Collision Handling", "status": "Not Started" },
+            { "name": "Separate Chaining", "status": "Not Started" },
+            { "name": "Open Addressing", "status": "Not Started" },
+            { "name": "Frequency Counting", "status": "Not Started" },
+            { "name": "Lookup and Search Optimization", "status": "Not Started" }
+          ]
+        },
+        {
+          "name": "Hashing Problem Solving",
+          "topics": [
+            { "name": "Duplicate Detection", "status": "Not Started" },
+            { "name": "Two Sum Using Hash Map", "status": "Not Started" },
+            { "name": "Frequency-Based Problems", "status": "Not Started" },
+            { "name": "Subarray Sum Patterns", "status": "Not Started" },
+            { "name": "Anagram Grouping", "status": "Not Started" },
+            { "name": "Longest Consecutive Sequence", "status": "Not Started" }
+          ]
+        },
+        {
+          "name": "Advanced Concepts and Complexity",
+          "topics": [
+            { "name": "Average and Worst Case Complexity", "status": "Not Started" },
+            { "name": "Hashing vs Direct Access", "status": "Not Started" },
+            { "name": "When to Use Dictionary vs Set", "status": "Not Started" },
+            { "name": "Space-Time Tradeoffs", "status": "Not Started" }
+          ]
+        },
+        {
+          "name": "Coding Practice",
+          "topics": [
+            { "name": "Solve 20 Hashing Coding Questions", "status": "Not Started" },
             { "name": "Understand Brute Force Approaches", "status": "Not Started" },
             { "name": "Optimize Solutions", "status": "Not Started" },
             { "name": "Practice Edge Cases", "status": "Not Started" },
@@ -117,12 +180,6 @@
           ]
         }
       ]
-    },
-    {
-      "phase": 3,
-      "name": "Hashing",
-      "status": "Not Started",
-      "topics": []
     },
     {
       "phase": 4,
@@ -223,8 +280,8 @@
   ],
   "milestones": {
     "10": true,
-    "25": false,
-    "50": false,
+    "25": true,
+    "50": true,
     "100": false,
     "200": false,
     "300": false,
@@ -239,5 +296,5 @@
     "Complexity",
     "Document"
   ],
-  "lastUpdated": "2026-11-15"
+  "lastUpdated": "2026-11-19"
 }
